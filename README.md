@@ -36,7 +36,7 @@ All of the tools we discussed are also linked at the bottom.
 # From a basic document to a dissertation
 * [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * [Basic Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
-	- [ShareLatex document](https://www.sharelatex.com/read/wngqwdmwpdgg)
+	- [ShareLatex file](https://www.sharelatex.com/read/wngqwdmwpdgg)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
 	- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
 * [Document Structure and Style](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/3%20-%20Structure.tex)
@@ -44,8 +44,8 @@ All of the tools we discussed are also linked at the bottom.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
 	- [Sharelatex file](https://www.sharelatex.com/5382877741jrhqcwmtjwtk)
 * PLOS Template
-	- Download from journal [website](http://journals.plos.org/plosone/s/latex)
-	- Open in [ShareLatex](https://www.sharelatex.com/2634363826pfpttwmpdmrw)
+	- Download from journal [website](http://journals.plos.org/plosone/s/latex) and upload zipped files to Sharelatex 
+	- [ShareLatex files](https://www.sharelatex.com/2634363826pfpttwmpdmrw)
 * [Tulane Thesis and Dissertation via ShareLatex](https://www.sharelatex.com/read/fcdfzdrpstfc)
 
 # Useful Tools
