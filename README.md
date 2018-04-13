@@ -33,7 +33,7 @@ If you're interested in learning more, there are also a number of ShareLatex pro
 
 All of the tools we discussed are also linked at the bottom.
 
-# Lets Play!
+# From a basic document to a dissertation
 * [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * [Basic Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
@@ -45,9 +45,7 @@ All of the tools we discussed are also linked at the bottom.
 * PLOS Template
 	- Download from journal [website](http://journals.plos.org/plosone/s/latex)
 	- Open in [ShareLatex](https://www.sharelatex.com/2634363826pfpttwmpdmrw)
-* [Tulane Thesis and Dissertation via ShareLatex](https://www.sharelatex.com/2536146899yvshvjtvwjqx
-)
-
+* [Tulane Thesis and Dissertation via ShareLatex](https://www.sharelatex.com/read/fcdfzdrpstfc)
 
 # Useful Tools
 * Document Samples:
