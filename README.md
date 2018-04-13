@@ -42,8 +42,8 @@ All of the tools we discussed are also linked at the bottom.
 	- Each class has a number of options you can specify. Common options might include font size, number of columns, margins, type of paper, etc.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
 	- [Sharelatex file](https://www.sharelatex.com/5382877741jrhqcwmtjwtk)
-* [PLOS Template]
-	- Download from journal [website] ()
+* PLOS Template
+	- Download from journal [website] (http://journals.plos.org/plosone/s/latex)
 	- Open in [ShareLatex] (https://www.sharelatex.com/2634363826pfpttwmpdmrw)
 * [Tulane Thesis and Dissertation via ShareLatex](https://www.sharelatex.com/2536146899yvshvjtvwjqx
 )
