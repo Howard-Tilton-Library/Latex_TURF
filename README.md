@@ -9,7 +9,7 @@ It is widely used across academia for [publications](https://www.overleaf.com/ga
 It is also gaining popularity elsewhere - for example, it's possible to use Latex to produce [resumes](https://www.overleaf.com/gallery/tagged/cv#.WsJbnujwaUk), [reports](https://www.overleaf.com/gallery/tagged/report#.WsJb2ujwaUk), or [presentations](https://www.overleaf.com/gallery/tagged/presentation#.WsJbvujwaUk).
 
 # Topics Covered
-* How to get started qucikly with ShareLatex?
+* How to get started quickly with ShareLatex?
 * How to create a basic document?
 * How to work from a template?
 * How to use a journal template?
