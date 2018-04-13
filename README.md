@@ -36,6 +36,7 @@ All of the tools we discussed are also linked at the bottom.
 # From a basic document to a dissertation
 * [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * [Basic Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
+	- [ShareLatex document](https://www.sharelatex.com/read/wngqwdmwpdgg)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
 	- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
 * [Document Structure and Style](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/3%20-%20Structure.tex)
