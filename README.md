@@ -41,16 +41,12 @@ All of the tools we discussed are also linked at the bottom.
 * [Document Structure and Style](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/3%20-%20Structure.tex)
 	- Each class has a number of options you can specify. Common options might include font size, number of columns, margins, type of paper, etc.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
-* [Math Equations](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/4%20-%20Structure_Math.tex)
+	- [Sharelatex file](https://www.sharelatex.com/5382877741jrhqcwmtjwtk)
+* [Journal Template](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/4%20-%20Structure_Math.tex)
 	- add in and out of line equations
-* [Environments: Lists and tables](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/5%20-%20Structure_Math_Environments)
-	- What is an environment?
-	- How to an environment?
-* Next: Figures and Bibliographies
+* [Tulane Thesis and Dissertation via ShareLatex](https://www.sharelatex.com/2536146899yvshvjtvwjqx
+)
 
-# Live Code
-- [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
-- [Tulane University Thesis/Dissertation template](https://www.sharelatex.com/project/5ac2a2076f8fb00b474e8882)
 
 # Useful Tools
 * Document Samples:
